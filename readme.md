@@ -20,7 +20,7 @@ Raspberry Pi Pico を用いた、乾電池駆動・スタンドアロン型の�
 │   ├── ds3231.py       # RTCドライバ
 │   └── sdcard.py       # SDカードドライバ
 ├── docs/               # ドキュメント
-│   └── specification.md # 詳細仕様書・配線図
+│   └── EnvloggerSD.md # 詳細仕様書・配線図
 └── README.md           # 本ファイル
 ```
 
@@ -39,7 +39,7 @@ Raspberry Pi Pico を用いた、乾電池駆動・スタンドアロン型の�
 
 ## Hardware Requirements
 
-詳細な部品表や配線図は [docs/specification.md](docs/specification.md) を参照してください。
+詳細な部品表や配線図は [docs/specification.md](docs/EnvloggerSD.md) を参照してください。
 
 * Raspberry Pi Pico
 * BME280 (I2C)
